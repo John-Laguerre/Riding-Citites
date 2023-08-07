@@ -16,7 +16,7 @@ My mission is to update the Riding Cities web page as follows:
 This prototype was created using HMTL5 and CSS3.
 
 
-@ Français
+# Français
 
 Ce travail a été réalisé pour le projet 2 de la formation Intégrateur Web d'OpenClassrooms.
 Ce repo contient le code du prototype du site de Riding Citites.
