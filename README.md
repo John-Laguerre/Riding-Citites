@@ -1,5 +1,7 @@
 # Riding-Citites
 
+<img width="1437" alt="Capture d’écran 2023-09-16 à 15 17 32" src="https://github.com/John-Laguerre/Riding-Citites/assets/137527343/9fb50c3f-0bda-4e5d-86c2-c6df20ccdb03">
+
 # English
 
 This work was done for project 2 of the OpenClassrooms Web Integrator training.
